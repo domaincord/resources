@@ -1,7 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/32128bab-176e-4a45-b21e-7a57425a36d1/deploy-status)](https://app.netlify.com/sites/epic-sammet-7ed06e/deploys)
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
-# webgems.io
+# domainer.services
 
 This project should help anyone to find new resources but especially beginners in the field to have something they can look things up.
 
@@ -19,7 +19,9 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) if you'd like to report an issue 
 
 * **lost.design** - *Initial work* - [lostdesign](https://github.com/lostdesign)
 
-See also the list of [contributors](https://github.com/webgems/webgems/contributors) who participated in this project.
+* **Alex Crocker** - *Maintainer of fork* - [crock](https://github.com/crock)
+
+See also the list of [contributors](https://github.com/domaincord/resources/contributors) who participated in this project.
 
 ## License
 

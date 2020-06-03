@@ -1,8 +1,8 @@
 {
-  "name": "webgems.io",
+  "name": "domainer.services",
   "version": "1.0.0",
-  "description": "Webgems is a place for devs and designers to find useful resources all at one place. It has server resources on HTML, CSS, Javascript, Design, Icons,Accessibility, PHP, Podcasts, Python, Ruby, Servers and more.",
-  "author": "lost.design",
+  "description": "Domainer Services is a place for domain name investors and digital marketers to find useful resources all at one place.",
+  "author": "crock",
   "private": true,
   "scripts": {
     "dev": "nuxt",

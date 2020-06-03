@@ -1,0 +1,24 @@
+{
+    "title": "Domain Sales",
+    "slug": "/domain-sales",
+    "resources": [
+        {
+          "title": "Sedo",
+          "desc": "",
+          "url": "https://sedo.com",
+          "tags": ["parking", "escrow"]
+        },
+        {
+          "title": "DAN / Undeveloped",
+          "desc": "",
+          "url": "https://dan.com",
+          "tags": ["parking", "escrow"]
+        },
+        {
+          "title": "GoDaddy Auctions",
+          "desc": "",
+          "url": "https://auctions.godaddy.com",
+          "tags": ["auction"]
+        }
+    ]
+}

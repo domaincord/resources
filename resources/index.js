@@ -1,19 +1,13 @@
-import css from './css'
-import daily from './daily'
-import design from './design'
-import frontend from './frontend'
-import fullstack from './fullstack'
-import general from './general'
-import html from './html'
-import javascript from './javascript'
-import php from './php'
-import podcasts from './podcasts'
-import python from './python'
-import ruby from './ruby'
-import server from './server'
-import utility from './utility'
-import icons from './icons'
-import accessibility from './accessibility'
+import dropcatching from './dropcatching.json'
+import general from './general.json'
+import marketing from './marketing.json'
+import sales from './sales.json'
+import podcasts from './podcasts.json'
+import portfolio from './portfolio.json'
+import registrars from './registrars.json'
+import seo from './seo.json'
+import socialMedia from './social-media.json'
+import utility from './utility.json'
 
 const sortByTitle = ({ title: titleA }, { title: titleB }) => {
   if(titleA < titleB) return -1
@@ -22,20 +16,14 @@ const sortByTitle = ({ title: titleA }, { title: titleB }) => {
 }
 
 export default [
-  css,
-  daily,
-  design,
-  frontend,
-  fullstack,
+  dropcatching,
   general,
-  html,
-  javascript,
-  php,
+  marketing,
+  sales,
   podcasts,
-  python,
-  ruby,
-  server,
+  portfolio,
+  registrars,
+  seo,
+  socialMedia,
   utility,
-  icons,
-  accessibility,
 ].sort(sortByTitle)

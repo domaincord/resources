@@ -14,7 +14,7 @@ export default {
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: pkg.description },
-      { hid: 'keywords', name: 'keywords', content: 'css, html, php, server, resources, design, gems, nuxt, javascript, tutorials, development, software'},
+      { hid: 'keywords', name: 'keywords', content: 'gems, webgems, resources, services, domainer, domains, domain names, domain investing, domain flipping, digital marketing, seo, smm, oss'},
 
       { name: 'robots', content: 'index, follow' },
       { name: 'distribution', content: 'global'},
