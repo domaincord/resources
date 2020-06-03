@@ -1,0 +1,30 @@
+{
+    "title": "Domain Registrars",
+    "slug": "/domain-registrars",
+    "resources": [
+        {
+          "title": "GoDaddy",
+          "desc": "GoDaddy is one of the oldest domain name registrars on the web.",
+          "url": "https://godaddy.com",
+          "tags": ["registrar", "hosting", "ssl", "email"]
+        },
+        {
+            "title": "Namecheap",
+            "desc": "Namecheap is an affordable, modern domain name registrar, but they also include a number of other services. Check their site regularly because they frequently have big sales and discounts.",
+            "url": "https://namecheap.com",
+            "tags": ["registrar", "hosting", "ssl", "vpn", "email"]
+        },
+        {
+            "title": "Name.com",
+            "desc": "Name.com is an ICANN accredited domain name registrar and web hosting company based in Denver, Colorado.",
+            "url": "https://name.com",
+            "tags": ["registrar", "hosting", "ssl", "email"]
+        },
+        {
+            "title": "Porkbun",
+            "desc": "AN ODDLY SATISFYING EXPERIENCE.",
+            "url": "https://porkbun.com",
+            "tags": ["registrar", "hosting", "ssl", "email"]
+        }
+    ]
+}

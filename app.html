@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html {{ HTML_ATTRS }}>
   <head {{ HEAD_ATTRS }}>
-    <!-- Fathom - beautiful, simple website analytics -->
-    <script src="https://cdn.usefathom.com/3.js" site="OCSVINVR"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154623356-3"></script>
     <script>
-      window.fathom || document.write('<script src="https://quokka.webgems.io/core.js"><\/script>');
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-154623356-3');
     </script>
-    <!-- / Fathom -->
 
     {{ HEAD }}
   </head>
