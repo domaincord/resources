@@ -1,5 +1,12 @@
 {
   "title": "Utility",
   "slug": "/utility",
-  "resources": []
+  "resources": [
+    {
+      "title": "Dropfilter Config Generator",
+      "desc": "Generate a custom configuration for Dropfilter CLI or the filter bot command in the Domaincord Discord server.",
+      "url": "https://domaincord.com/commands/filter/config",
+      "tags": ["dropfilter", "dropcatching", "domaincord", "bot", "config", "df"]
+    }
+  ]
 }

@@ -2,7 +2,6 @@
   aside.nav
     .sidebar
       template(v-for='category in categories')
-        //- nuxt-link(:to='$i18n.path(category.slug)') {{ category.title }}
         nuxt-link(:to='category.slug') {{ category.title }}
       hr
       nuxt-link(to='/legal-notice') Legal Notice
@@ -45,6 +44,7 @@ export default {
   grid-template-columns: 1fr;
   font-size: 14px;
   align-items: center;
+  width: 300px;
 
   a {
     padding: 0.5rem 1rem 0.5rem 1rem;
