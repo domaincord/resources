@@ -1,5 +1,30 @@
 {
-    "title": "Digital Marketing",
-    "slug": "/digital-marketing",
-    "resources": []
+    "title": "Marketing",
+    "slug": "/marketing",
+    "resources": [
+        {
+          "title": "Google Analytics",
+          "desc": "",
+          "url": "https://analytics.google.com/analytics/web/",
+          "tags": ["ga", "gtag", "analytics", "tracking", "google"]
+        },
+        {
+            "title": "Google Search Console",
+            "desc": "",
+            "url": "https://search.google.com/search-console",
+            "tags": ["gsc", "search", "tracking", "sitemap", "google"]
+          },
+          {
+            "title": "Bing Webmaster Tools",
+            "desc": "",
+            "url": "https://www.bing.com/toolbox/webmaster/",
+            "tags": ["bwt", "search", "tracking", "bing", "sitemap"]
+          },
+          {
+            "title": "Semrush",
+            "desc": "All-in-one Marketing Toolkit for digital marketing professionals",
+            "url": "https://www.semrush.com/",
+            "tags": ["semrush", "marketing", "toolkit", "seo"]
+          }
+    ]
 }
