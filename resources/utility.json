@@ -7,6 +7,12 @@
       "desc": "Generate a custom configuration for Dropfilter CLI or the filter bot command in the Domaincord Discord server.",
       "url": "https://domaincord.com/commands/filter/config",
       "tags": ["dropfilter", "dropcatching", "domaincord", "bot", "config", "df"]
+    },
+    {
+      "title": "TLD List",
+      "desc": "Compare prices of all top-level domains across registrars.",
+      "url": "https://tld-list.com/",
+      "tags": ["tld", "tldlist", "compare", "comparison"]
     }
   ]
 }
