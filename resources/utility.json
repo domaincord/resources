@@ -13,6 +13,12 @@
       "desc": "Compare prices of all top-level domains across registrars.",
       "url": "https://tld-list.com/",
       "tags": ["tld", "tldlist", "compare", "comparison"]
+    },
+    {
+      "title": "domcomp",
+      "desc": "Compare prices of all top-level domains across registrars.",
+      "url": "https://www.domcomp.com/",
+      "tags": ["tld", "domcomp", "compare", "comparison"]
     }
   ]
 }
